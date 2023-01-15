@@ -1,4 +1,4 @@
-# common-ec-cairo
+# zk-verification-cairo
 
 A Cairo implementation of Plonk verification.
 
