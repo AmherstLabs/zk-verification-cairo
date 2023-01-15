@@ -9,4 +9,4 @@ We use Python to compute the complex field computing, and verify the correctness
 
 
 ## License
-[MIT License](https://opensource.org/licenses/MIT) © EulerSmile
+[MIT License](https://opensource.org/licenses/MIT) © AmherstLabs
